@@ -313,3 +313,74 @@ header nav a {
     right: 385px;
     bottom: 40px;
 }
+
+.our_team_background {
+    width: 100%;
+    height: 760px;
+    position: relative;
+    bottom: -563px
+}
+
+.our_team {
+    position: absolute;
+    width: 557px;
+    left: 500px;
+    top: 70px;
+    text-align: center;
+    line-height: 28px;
+}
+
+.our_team h2 {
+    color: #061e37;
+    font-family: 'Raleway', sans-serif;
+    font-size: 45px;
+    line-height: 6px;
+}
+
+.our_team p {
+    color: #b0bec5;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+
+.avatars {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 549px;
+}
+
+.sophie {
+    position: absolute;
+    width: 650px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    top: 563px;
+    left: 457px;
+    line-height: 1.9;
+    letter-spacing: -0.007em;
+    font-style: normal;
+}
+
+.sophie h4 {
+    color: #061e37;
+    font-size: 18px;
+    line-height: 0px;
+}
+
+.sophie p {
+    color: #b0bec5;
+    font-size: 15px;
+}
+
+.icons_team {
+    position: absolute;
+    letter-spacing: 21px;
+    top: 762px;
+    left: 690px;
+}
+
+.contact_us {
+    position: relative;
+    top: 700px;
+    width: 100%;
+}
