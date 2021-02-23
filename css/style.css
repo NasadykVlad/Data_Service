@@ -1,0 +1,287 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.background_header {
+    width: 100%;
+    height: 750px;
+    position: relative;
+}
+
+header nav {
+    position: absolute;
+    text-align: center;
+    top: 60px;
+    left: 581px;
+    word-spacing: 54px;
+}
+
+header nav a {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.logo_header {
+    position: absolute;
+    top: 50px;
+    left: 80px;
+}
+
+.sign_up {
+    position: absolute;
+    right: 80px;
+    top: 55px;
+}
+
+.text_header {
+    position: absolute;
+    top: 250px;
+    width: 580px;
+    left: 80px;
+    height: 223px;
+    color: white;
+    line-height: 23px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.text_header h1 {
+    font-size: 55px;
+}
+
+.text_header p {
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.buttons {
+    position: absolute;
+    top: 534px;
+    word-spacing: 20px;
+    left: 80px;
+}
+
+.buttons img {
+    width: 148px;
+    height: 56px;
+    word-spacing: 20px;
+}
+
+.video {
+    position: absolute;
+    top: 248px;
+    right: 80px;
+}
+
+.footer_bg {
+    width: 100%;
+}
+
+#section_1 {
+    height: 900px;
+}
+
+.bg_useful {
+    background-color: white;
+    width: 100%;
+    height: 900px;
+    position: static;
+}
+
+.title_section1 {
+    position: relative;
+    width: 560px;
+    line-height: 18px;
+    left: 522px;
+    text-align: center;
+    top: -800px;
+}
+
+.title_section1 h2 {
+    font-size: 45px;
+    font-family: 'Raleway', sans-serif;
+    color: #061e37;
+}
+
+.title_section1 h3 {
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    color: #b0bec5;
+}
+
+.title_section1 p {
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    color: #b0bec5;
+    line-height: 24px;
+}
+
+.section1_1 {
+    width: 350px;
+    height: 200px;
+    line-height: 40px;
+    text-align: center;
+    position: relative;
+    top: -740px;
+    left: 50px;
+}
+
+.section1_1 img {
+    margin-bottom: 22px;
+}
+
+.section1_1 h3 {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 12px;
+}
+
+.section1_1 p {
+    font-family: 'Raleway', sans-serif;
+    color: #78909c;
+    line-height: 22px;
+    font-size: 15px;
+}
+
+.section1_2 {
+    width: 350px;
+    height: 200px;
+    line-height: 40px;
+    text-align: center;
+    position: relative;
+    bottom: 941px;
+    left: 630px;
+}
+
+.section1_2 img {
+    margin-bottom: 12px;
+}
+
+.section1_2 h3 {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 12px;
+}
+
+.section1_2 p {
+    font-family: 'Raleway', sans-serif;
+    color: #78909c;
+    line-height: 22px;
+    font-size: 15px;
+}
+
+.section1_3 {
+    width: 350px;
+    height: 200px;
+    line-height: 40px;
+    text-align: center;
+    position: relative;
+    bottom: 1141px;
+    left: 1120px;
+}
+
+.section1_3 img {
+    margin-bottom: 23px;
+}
+
+.section1_3 h3 {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 12px;
+}
+
+.section1_3 p {
+    font-family: 'Raleway', sans-serif;
+    color: #78909c;
+    line-height: 22px;
+    font-size: 15px;
+}
+
+.button_section1 {
+    position: relative;
+    right: 488px;
+    top: 100px;
+}
+
+.class_section {
+    display: table;
+}
+
+.count1 {
+    display: table-cell;
+}
+
+.count2 {
+    display: table-cell;
+}
+
+.count3 {
+    display: table-cell;
+}
+
+.count4 {
+    display: table-cell;
+}
+
+.services {
+    width: 100%;
+    height: 870px;
+    color: white;
+    position: static;
+}
+
+.h2_services {
+    width: 555px;
+    text-align: center;
+    margin-left: 34%;
+    margin-bottom: 53px;
+    margin-top: 7%;
+}
+
+.services h2 {
+    font-family: 'Raleway', sans-serif;
+    color: #061e37;
+    font-size: 45px;
+}
+
+.services p {
+    font-family: 'Raleway', sans-serif;
+    color: #b0bec5;
+    font-size: 15px;
+}
+
+.services img {
+    margin-left: 25%;
+}
+
+.services2 img {
+    margin-left: 25.6%;
+}
+
+.test_bg {
+    width: 100%;
+    height: 565px;
+    position: absolute;
+}
+
+.testimonials_h2 {
+    position: absolute;
+    bottom: 260px;
+    left: 80px;
+    color: white;
+    width: 517px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.testimonials_h2 h2 {
+    font-size: 45px;
+}
+
+.testimonials_h2 p {
+    font-size: 15px;
+}
+
+.buttons_testimonials {}
