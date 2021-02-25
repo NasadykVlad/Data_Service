@@ -1,3 +1,5 @@
+/* HEADER*/
+
 body {
     margin: 0;
     padding: 0;
@@ -54,6 +56,7 @@ header nav a {
 
 .text_header h1 {
     font-size: 55px;
+    font-weight: bold;
 }
 
 .text_header p {
@@ -80,9 +83,8 @@ header nav a {
     right: 80px;
 }
 
-.footer_bg {
-    width: 100%;
-}
+
+/* SECTION 1*/
 
 #section_1 {
     height: 900px;
@@ -214,6 +216,9 @@ header nav a {
     display: table;
 }
 
+
+/* COUNT_SECTION */
+
 .count1 {
     display: table-cell;
 }
@@ -230,6 +235,9 @@ header nav a {
     display: table-cell;
 }
 
+
+/* SERVICES */
+
 .services {
     width: 100%;
     height: 870px;
@@ -238,6 +246,7 @@ header nav a {
 }
 
 .h2_services {
+    font-family: 'Raleway', sans-serif;
     width: 555px;
     text-align: center;
     margin-left: 34%;
@@ -246,13 +255,12 @@ header nav a {
 }
 
 .services h2 {
-    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
     color: #061e37;
     font-size: 45px;
 }
 
 .services p {
-    font-family: 'Raleway', sans-serif;
     color: #b0bec5;
     font-size: 15px;
 }
@@ -264,6 +272,9 @@ header nav a {
 .services2 img {
     margin-left: 25.6%;
 }
+
+
+/* TESTIMONTIALS*/
 
 .test_bg {
     width: 100%;
@@ -282,6 +293,7 @@ header nav a {
 
 .testimonials_h2 h2 {
     font-size: 45px;
+    font-weight: 600;
 }
 
 .testimonials_h2 p {
@@ -318,6 +330,9 @@ header nav a {
     bottom: 40px;
 }
 
+
+/* TEAM_SECTION */
+
 .our_team_background {
     width: 100%;
     height: 760px;
@@ -339,6 +354,7 @@ header nav a {
     font-family: 'Raleway', sans-serif;
     font-size: 45px;
     line-height: 6px;
+    font-weight: 600;
 }
 
 .our_team p {
@@ -369,6 +385,7 @@ header nav a {
     color: #061e37;
     font-size: 18px;
     line-height: 0px;
+    font-weight: 600;
 }
 
 .sophie p {
@@ -382,6 +399,9 @@ header nav a {
     top: 762px;
     left: 690px;
 }
+
+
+/* CONTACT_US_SECTION */
 
 .contact_us {
     position: relative;
@@ -401,6 +421,7 @@ header nav a {
 
 .contact_h2 h2 {
     font-size: 45px;
+    font-weight: 600;
 }
 
 .contact_h2 p {
@@ -426,6 +447,7 @@ header nav a {
     font-family: 'Raleway', sans-serif;
     text-align: left;
     color: rgb(0, 0, 0);
+    font-weight: 600;
 }
 
 .last_name input {
@@ -478,6 +500,7 @@ header nav a {
     text-align: left;
     color: rgb(0, 0, 0);
     font-size: 13px;
+    font-weight: 600;
 }
 
 .conctact_us1 {
@@ -499,16 +522,24 @@ header nav a {
 .p_contact {
     position: relative;
     font-family: 'Raleway', sans-serif;
-    font-size: 15px;
+    font-size: 12px;
     left: 502px;
-    top: 415px;
+    top: 420px;
+    font-weight: 600;
 }
+
+
+/* FOOTER */
 
 footer {
     position: relative;
     top: 700px;
     width: 100%;
     top: 567px;
+}
+
+.footer_bg {
+    width: 100%;
 }
 
 .logo_footer {
